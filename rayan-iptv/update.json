@@ -1,9 +1,9 @@
 {
   "package": "com.rayan.iptv.player",
-  "versionCode": 104,
-  "versionName": "2.0.4",
-  "url": "https://github.com/reyanali470a-hash/indexiptv/releases/download/iptv-v2.0.4/RAYAN-IPTV.apk",
-  "sha256": "6d57f94da285ccf8ecbf314b7ae4879ea6194802a9a3b8319100980e5ba2d734",
+  "versionCode": 105,
+  "versionName": "2.0.5",
+  "url": "https://github.com/reyanali470a-hash/indexiptv/releases/download/iptv-v2.0.5/RAYAN-IPTV.apk",
+  "sha256": "2423d69f70d94996bc8331a87f92be0f609662e433d26ed85a616c3468a5bc48",
   "size": 33458,
   "notes": "تطبيق IPTV واحد للجوال والتلفزيون، مع زر Update وفحص التحديث عند الفتح. حساباتك وإعداداتك تبقى محفوظة في التحديثات القادمة."
 }
